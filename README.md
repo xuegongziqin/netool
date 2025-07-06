@@ -2,6 +2,7 @@
 
 ![命令行工具](https://img.shields.io/badge/平台-Windows|Linux|macOS-blue)
 [![许可证](https://img.shields.io/badge/许可证-LGPL3.0-green)](LICENSE)
+[Netool](https://netool.netlify.app)
 
 Netool 是一个功能强大的命令行网络工具集，提供TCP监听、数据发送、网络扫描等功能，支持高效的文件传输和图形界面操作。采用LGPL-3.0开源许可证，支持自由使用和二次开发。
 
@@ -126,6 +127,12 @@ netool scan type=port ip=192.168.1.100 startport=1 endport=1024 parallel=true ma
 ```bash
 netool gui
 ```
+
+### 5.交互式
+```bash
+netool
+```
+即可进入交互模式
 
 ## 数据传输机制
 
