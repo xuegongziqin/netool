@@ -16,7 +16,7 @@ Netool 是一个功能强大的命令行网络工具集，提供TCP监听、数�
 ## 安装
 
 ### 二进制安装
-从[发布页面]([https://github.com/xue-gongziqin/netool/releases](https://github.com/xuegongziqin/netool/releases))下载对应平台的二进制文件
+从[发布页面](https://github.com/xuegongziqin/netool/releases)下载对应平台的二进制文件
 
 ## 使用说明
 
